@@ -20,3 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 今までの代表成果物：
+### コードタイピング：プログラミングのコーディングに特化したタイピングゲームです。
+<img width="1440" alt="スクリーンショット 2022-07-20 17 09 16" src="https://user-images.githubusercontent.com/83937097/183279593-3aafe171-ed81-4fa3-8b0a-9165880c1e0d.png">
+ソースコード：https://github.com/hata8341/self_typing_game/tree/master
+
+### スノボセレクター：自分に合ったスノーボードが知ることができる簡単な診断アプリです。
+![re_size_content](https://user-images.githubusercontent.com/83937097/183279957-a7f3c2df-b94a-4c22-adcf-4c90f275f5f5.png)
+
+ソースコード：https://github.com/hata8341/flutter-snow_board_selecter/tree/main
